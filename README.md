@@ -1,0 +1,2 @@
+# wayfire
+wayfire config
